@@ -12,7 +12,7 @@ import javax.servlet.http.HttpServletResponse;
 public class FrontController extends HttpServlet {
 
 	protected void service(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		//은지수정
+		//은지수정222222222
 		System.out.println("my name is gui yo mi");
 	}
 
